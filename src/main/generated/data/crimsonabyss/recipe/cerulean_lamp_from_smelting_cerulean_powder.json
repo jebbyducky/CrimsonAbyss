@@ -1,0 +1,13 @@
+{
+  "type": "minecraft:smelting",
+  "category": "blocks",
+  "cookingtime": 200,
+  "experience": 0.3,
+  "group": "cerulean_lamp",
+  "ingredient": {
+    "item": "crimsonabyss:cerulean_powder"
+  },
+  "result": {
+    "id": "crimsonabyss:cerulean_lamp"
+  }
+}

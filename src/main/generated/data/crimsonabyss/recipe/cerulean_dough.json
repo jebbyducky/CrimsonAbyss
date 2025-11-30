@@ -1,0 +1,21 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "key": {
+    "8": {
+      "item": "minecraft:wheat"
+    },
+    "R": {
+      "item": "crimsonabyss:cerulean_powder"
+    }
+  },
+  "pattern": [
+    "RRR",
+    "R8R",
+    "RRR"
+  ],
+  "result": {
+    "count": 1,
+    "id": "crimsonabyss:cerulean_dough"
+  }
+}

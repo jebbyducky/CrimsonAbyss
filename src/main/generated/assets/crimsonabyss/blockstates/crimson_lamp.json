@@ -1,0 +1,10 @@
+{
+  "variants": {
+    "clicked=false": {
+      "model": "crimsonabyss:block/crimson_lamp"
+    },
+    "clicked=true": {
+      "model": "crimsonabyss:block/crimson_lamp_on"
+    }
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "equipment",
+  "key": {
+    "8": {
+      "item": "minecraft:stick"
+    },
+    "R": {
+      "item": "crimsonabyss:abyssal_shard"
+    }
+  },
+  "pattern": [
+    "R",
+    "R",
+    "8"
+  ],
+  "result": {
+    "count": 1,
+    "id": "crimsonabyss:abyssal_longsword"
+  }
+}

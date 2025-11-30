@@ -1,0 +1,13 @@
+{
+  "type": "minecraft:smelting",
+  "category": "food",
+  "cookingtime": 200,
+  "experience": 0.1,
+  "group": "crimson_bread",
+  "ingredient": {
+    "item": "crimsonabyss:crimson_dough"
+  },
+  "result": {
+    "id": "crimsonabyss:crimson_infused_bread"
+  }
+}
